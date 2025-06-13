@@ -6,7 +6,7 @@
 
 # Hi there, I'm Márk Gajdán 👋
 
-I'm a passionate and driven student at the **Budapest University of Technology and Economics**, on a mission to build amazing things with code. I thrive on challenges and am constantly exploring new technologies to broaden my skillset.
+I'm a passionate and driven student at the **Budapest University of Technology and Economics**. I thrive on challenges and am constantly exploring new technologies to broaden my skillset.
 
 ---
 
