@@ -31,23 +31,3 @@ Here are some of the technologies I've been working with:
 * **Robot Arm** A simple robot arm controller implemented in Python for my class. This project allows for basic control of a simulated or physical robot arm, enabling it to perform a series of pre-programmed movements.
 
 ---
-
-## 🌐 Connect with Me
-
-Let's connect and collaborate!
-
-<p align="left">
-  <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/m%C3%A1rk-gajd%C3%A1n-679615369/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Your GitHub Stats"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="Your GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
